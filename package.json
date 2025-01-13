@@ -1,0 +1,28 @@
+{
+  "name": "khana-khazana",
+  "version": "1.0.0",
+  "description": "app for ordering food from your nearby restaurants",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarChauhan2025/khana-khazana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarChauhan2025/khana-khazana/issues"
+  },
+  "homepage": "https://github.com/sagarChauhan2025/khana-khazana#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
