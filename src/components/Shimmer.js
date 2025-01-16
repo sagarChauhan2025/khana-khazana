@@ -3,7 +3,7 @@ export default function Shimmer(){
       <div className="restaurant-list">
         
             {
-              Array(10).fill().map((item,index)=>{
+              Array(10).fill("").map((item,index)=>{
                 return <div key ={index} className="shimmer-card" ></div>
               })
             }
